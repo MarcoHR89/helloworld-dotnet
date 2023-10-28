@@ -32,4 +32,4 @@ jobs:
       with: 
         image: marcohr89/dotnet-helloworld
         registry: docker.io
-        dockerfile: /bin/Release/net7.0/publish/Dockerfile
+        dockerfile: ./bin/Release/net7.0/publish/Dockerfile
