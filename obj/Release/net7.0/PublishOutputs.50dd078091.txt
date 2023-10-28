@@ -1,0 +1,7 @@
+/home/marco/Projects/Git/helloworld-dotnet/bin/Release/net7.0/publish/helloworld-dotnet
+/home/marco/Projects/Git/helloworld-dotnet/bin/Release/net7.0/publish/appsettings.Development.json
+/home/marco/Projects/Git/helloworld-dotnet/bin/Release/net7.0/publish/appsettings.json
+/home/marco/Projects/Git/helloworld-dotnet/bin/Release/net7.0/publish/helloworld-dotnet.dll
+/home/marco/Projects/Git/helloworld-dotnet/bin/Release/net7.0/publish/helloworld-dotnet.deps.json
+/home/marco/Projects/Git/helloworld-dotnet/bin/Release/net7.0/publish/helloworld-dotnet.runtimeconfig.json
+/home/marco/Projects/Git/helloworld-dotnet/bin/Release/net7.0/publish/helloworld-dotnet.pdb
