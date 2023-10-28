@@ -40,6 +40,6 @@ jobs:
       uses: docker/build-push-action@v5
       with:
         context: .
-        dockerfile: ./bin/Release/net7.0/publish/Dockerfile
+        file: ./bin/Release/net7.0/publish/Dockerfile
         push: true
         tags: ${{ secrets.DOCKERHUB_USERNAME }}/dotnet-helloworld:latest
