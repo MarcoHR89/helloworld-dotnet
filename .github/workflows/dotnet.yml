@@ -26,3 +26,10 @@ jobs:
       run: dotnet build --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
+      
+    - name: Build Docker image
+      uses: mr-smithers-excellent/docker-build-push@v4
+      with: 
+        image: marcohr89/dotnet-helloworld
+        registry: docker.io
+        dockerfile: /bin/Release/net7.0/publish/Dockerfile
