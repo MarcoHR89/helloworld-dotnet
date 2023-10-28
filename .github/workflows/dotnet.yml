@@ -32,4 +32,6 @@ jobs:
       with: 
         image: marcohr89/dotnet-helloworld
         registry: docker.io
+        username: ${{ secrets.DOCKER_USERNAME }}
+        password: ${{ secrets.DOCKER_PASSWORD }}
         dockerfile: ./bin/Release/net7.0/publish/Dockerfile
