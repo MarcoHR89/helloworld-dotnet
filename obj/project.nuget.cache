@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6vaxYhXrg0PBe5him3+0sdP524lqw3DuAMZVRUfIDvuMqU+LpVqO4nPZ4+LGrG3c/EW3l4E7F7qpIORNxc24RQ==",
+  "dgSpecHash": "VZJM2npLzE4FwTS59shqEIIXuztPb9O6V0y2ZTkrhvLIvuqT2CRIxjJDiXxgS/QrZcTwHWygSt8+BLl5cP80yQ==",
   "success": true,
-  "projectFilePath": "/home/marco/Projects/Git Projects/helloworld-dotnet/helloworld-dotnet.csproj",
+  "projectFilePath": "/home/marco/Projects/Git_Projects/helloworld-dotnet/helloworld-dotnet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

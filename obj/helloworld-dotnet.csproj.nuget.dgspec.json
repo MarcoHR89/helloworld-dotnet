@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/marco/Projects/Git Projects/helloworld-dotnet/helloworld-dotnet.csproj": {}
+    "/home/marco/Projects/Git_Projects/helloworld-dotnet/helloworld-dotnet.csproj": {}
   },
   "projects": {
-    "/home/marco/Projects/Git Projects/helloworld-dotnet/helloworld-dotnet.csproj": {
+    "/home/marco/Projects/Git_Projects/helloworld-dotnet/helloworld-dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/marco/Projects/Git Projects/helloworld-dotnet/helloworld-dotnet.csproj",
+        "projectUniqueName": "/home/marco/Projects/Git_Projects/helloworld-dotnet/helloworld-dotnet.csproj",
         "projectName": "helloworld-dotnet",
-        "projectPath": "/home/marco/Projects/Git Projects/helloworld-dotnet/helloworld-dotnet.csproj",
+        "projectPath": "/home/marco/Projects/Git_Projects/helloworld-dotnet/helloworld-dotnet.csproj",
         "packagesPath": "/home/marco/.nuget/packages/",
-        "outputPath": "/home/marco/Projects/Git Projects/helloworld-dotnet/obj/",
+        "outputPath": "/home/marco/Projects/Git_Projects/helloworld-dotnet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/marco/.nuget/NuGet/NuGet.Config"
